@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyRVApp</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="title_activity_compose3">Compose3Activity</string>
+    <string name="title_activity_scompose">ScomposeActivity</string>
+    <string name="title_activity_scaffold">ScaffoldActivity</string>
+    <string name="title_activity_tf_compose">TfComposeActivity</string>
+    <string name="title_activity_new_compose">NewComposeActivity</string>
+
+    <string name="message_content">Declaratively define the optimal conditions for your work to run using work constraints. For example, run only when the device is on an unmetered network, when the device is idle, or when it has sufficient battery.</string>
+
+
+</resources>
