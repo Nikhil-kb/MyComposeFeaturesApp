@@ -1,4 +1,4 @@
-This app shows the following compose related features:
+This app demostrate the following compose related features:
 Navigation drawer, 
 Flow Row / Flow Column, 
 Lazy Column / Lazy Row, 
